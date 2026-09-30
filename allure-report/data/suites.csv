@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3100","Login and logout","chromium","2026-09-27","passed","2026-09-27","","TC001.spec.ts","",""
+"","9167","Add employee","chromium","2026-09-27","passed","2026-09-27","","TC002.spec.ts","",""
