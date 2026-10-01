@@ -7,6 +7,7 @@ test('@Smoke-Login and logout', async ({ page}) =>{
     await obj.openapplication();
     await obj.login();
     await obj.logout();
+    console.log("Test casecompleted"
 
 
 }
